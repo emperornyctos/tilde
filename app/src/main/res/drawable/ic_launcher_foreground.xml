@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer crisp terminal frame within 66dp safe zone (24..84) -->
+    <path
+        android:fillColor="#FF282038"
+        android:pathData="M28,26 L80,26 A2,2 0 0,1 82,28 L82,80 A2,2 0 0,1 80,82 L28,82 A2,2 0 0,1 26,80 L26,28 A2,2 0 0,1 28,26 Z"
+        android:strokeColor="#FF9D85C4"
+        android:strokeWidth="3.5" />
+    <!-- Top-left terminal prompt block -->
+    <path
+        android:fillColor="#FFC8B6E2"
+        android:pathData="M34,34 H50 V50 H34 Z" />
+    <!-- Top-right grid cell -->
+    <path
+        android:fillColor="#FF9D85C4"
+        android:pathData="M58,34 H74 V50 H58 Z" />
+    <!-- Bottom-left grid cell -->
+    <path
+        android:fillColor="#FF9D85C4"
+        android:pathData="M34,58 H50 V74 H34 Z" />
+    <!-- Bottom-right command slash accent -->
+    <path
+        android:fillColor="#FFE2D7F4"
+        android:pathData="M58,69 L74,58 V65 L58,76 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Tilde",
+  "description": "Minimalist terminal-inspired Android launcher with customizable grids, widgets, icon packs, fonts, and themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
